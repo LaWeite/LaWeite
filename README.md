@@ -1,4 +1,4 @@
-### second-year student of St. Petersburg State University 👨‍💻
+### Second-year student of St. Petersburg State University 👨‍💻
 
 <!--
 **LaWeite/LaWeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
