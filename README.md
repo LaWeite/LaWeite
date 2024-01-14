@@ -1,5 +1,8 @@
 ### Second-year student of St. Petersburg State University 👨‍💻
 
+### Tech Stack
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
 ### ⚡ Github Stats:
 ![LaWeite's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaWeite&show_icons=true&theme=dark)
 
