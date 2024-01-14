@@ -3,9 +3,7 @@
 ### ⚡ Github Stats:
 ![LaWeite's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaWeite&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&layout=compact)](https://github.com/LaWeite/github-readme-stats&theme=dark)
-
-[![LaWeite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaWeite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&langs_count=5&theme=dark)]()
 <!--
 **LaWeite/LaWeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
