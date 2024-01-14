@@ -5,6 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&layout=compact)](https://github.com/LaWeite/github-readme-stats&theme=dark)
 
+[![LaWeite's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaWeite)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LaWeite/LaWeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
