@@ -5,8 +5,6 @@
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&langs_count=5&theme=dark)]()
 
-<img src="https://streak-stats.demolab.com?user=LaWeite&theme=dark" alt="GitHub Streak" />
-
 <!--
 **LaWeite/LaWeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
