@@ -2,8 +2,6 @@
 
 ![LaWeite github stats](https://github-readme-stats.vercel.app/api?username=Laweite&show_icons=true&hide_border=true)
 
-[![LaWeite's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaWeite)](https://github.com/LaWeite/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&layout=compact)](https://github.com/LaWeite/github-readme-stats)
 
 <!--
