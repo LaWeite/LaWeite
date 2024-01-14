@@ -1,7 +1,7 @@
 ### Second-year student of St. Petersburg State University 👨‍💻
 
 ### ⚡ Github Stats:
-![LaWeite's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaWeite&show_icons=true)
+![LaWeite's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaWeite&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&layout=compact)](https://github.com/LaWeite/github-readme-stats)
 
