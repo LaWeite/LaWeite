@@ -1,5 +1,7 @@
 ### Second-year student of St. Petersburg State University 👨‍💻
 
+![LaWeite github stats](https://github-readme-stats.vercel.app/api?username=Laweite&show_icons=true&hide_border=true)
+
 <!--
 **LaWeite/LaWeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
