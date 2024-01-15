@@ -6,8 +6,6 @@
 ### ⚡ Github Stats:
 ![LaWeite's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaWeite&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LaWeite&theme=dark)](https://git.io/streak-stats)
-
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&langs_count=5&theme=dark)]()
 
 <!--
