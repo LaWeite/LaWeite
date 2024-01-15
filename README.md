@@ -8,6 +8,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LaWeite)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LaWeite)](https://github.com/LaWeite/github-profile-trophy)
+
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&langs_count=5&theme=dark)]()
 
 <!--
