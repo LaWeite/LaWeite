@@ -6,8 +6,6 @@
 ### ⚡ Github Stats:
 ![LaWeite's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaWeite&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![LaWeite's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LaWeite)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)](https://git.io/streak-stats)
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&langs_count=10&count-private=true&theme=dark)]()
