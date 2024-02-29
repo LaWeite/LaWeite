@@ -4,11 +4,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) 
 
 ### ⚡ Github Stats:
-![LaWeite's GitHub stats](https://stats-laweites-projects.vercel.app&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![https://stats-git-main-laweites-projects.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)]
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)](https://git.io/streak-stats)
-
-[![Top languages](https://stats-laweites-projects.vercel.app/api/top-langs/?username=LaWeite&langs_count=10&count-private=true&theme=dark)]()
 
 <!--
 **LaWeite/LaWeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
