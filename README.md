@@ -11,7 +11,7 @@
 
 <h1 align="center">⚡ Github Stats: </h1>
 
-<p align="center"> <a href="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true&theme=dark)" /></a> </p>
+<p align="center"> <a href="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true&theme=dark" /></a> </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)](https://git.io/streak-stats)
 
