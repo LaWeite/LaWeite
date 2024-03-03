@@ -27,13 +27,9 @@
 
 <p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465" alt="laweite" /></a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)](https://git.io/streak-stats)
-
 <p align="center">
   <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark" />
 </p>
-
-![Top Langs](https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark)
 
 <!--
 **LaWeite/LaWeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
