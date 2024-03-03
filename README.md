@@ -25,6 +25,8 @@
   </picture>
 </p>
 
+<p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465" alt="laweite" /></a> </p>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)](https://git.io/streak-stats)
 
 <p align="center">
