@@ -28,8 +28,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)](https://git.io/streak-stats)
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=laweite" alt="laweite" />
+  <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-readme-stats-mu-brown-46.vercel.app)">
+    <img src="(https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark" alt="laweite" />
   </a>
 </p>
 
