@@ -25,21 +25,22 @@
   </picture>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)](https://git.io/streak-stats)
+
+
 <p align="center">
   <picture>
     <source
-      srcset="[https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true&theme=dark](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)"
+      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="[https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)"
+      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="[https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)" />
+    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark" />
   </picture>
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark)
 
