@@ -25,7 +25,19 @@
   </picture>
 </p>
 
-![LaWeite's GitHub stats](https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true&theme=dark)
+<p align="center">
+  <picture>
+    <source
+      srcset="[https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true&theme=dark](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="[https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="[https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)" />
+  </picture>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465)](https://git.io/streak-stats)
 
