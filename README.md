@@ -29,17 +29,9 @@
 
 
 <p align="center">
-  <picture>
     <source
-      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark"
-      media="(prefers-color-scheme: dark)"
+      src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark"
     />
-    <source
-      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark" />
-  </picture>
 </p>
 
 ![Top Langs](https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark)
