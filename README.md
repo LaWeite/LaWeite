@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Кручинин Евгений</h1>
-<h3 align="center">Second-year student of St. Petersburg State University</h3>
+<h3 align="center">Third-year student of St. Petersburg State University</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laweite&label=Profile%20views&color=0e75b6&style=flat" alt="laweite" /> </p>
 
