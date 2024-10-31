@@ -19,24 +19,10 @@
 
 <h1 align="center">⚡ Github Stats: </h1>
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true" />
-  </picture>
-</p>
-
-<p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=LaWeite&card_width=465" alt="laweite" /></a> </p>
+<p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465" alt="laweite" /></a> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics" />
+  <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics" />
 </p>
 
 <!--
