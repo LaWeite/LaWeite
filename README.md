@@ -36,7 +36,7 @@
 <p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465" alt="laweite" /></a> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics&theme=dark" />
+  <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics" />
 </p>
 
 <!--
