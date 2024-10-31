@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laweite" alt="laweite" /></a> </p>
 
-<h1 align="center">👨‍💻 Tech Stack: </h1>
+<h1 align="left">👨‍💻 Tech Stack: </h1>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-c">
@@ -17,9 +17,9 @@
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
 </p>
 
-<h1 style="text-align: center;">⚡ Github Stats: </h1>
+<h1 style="text-align: left;">⚡ Github Stats: </h1>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: left; align-items: left; gap: 20px; width: 100%;">
   <picture>
     <source
       srcset="https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465"
@@ -29,7 +29,7 @@
       srcset="https://streak-stats.demolab.com/?user=LaWeite&theme=default&card_width=465"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com/?user=LaWeite&theme=default&card_width=465" alt="laweite" style="display: inline-block; margin-right: 20px;" />
+    <img src="https://streak-stats.demolab.com/?user=LaWeite&theme=default&card_width=465" alt="laweite" style="display: block; margin: auto;" />
   </picture>
 
   <picture>
@@ -41,13 +41,13 @@
       srcset="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true" alt="Github Stats" style="display: inline-block;" />
+    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true" alt="Github Stats" style="display: block; margin: auto;" />
   </picture>
 </div>
 
-<h2 style="text-align: center;">Languages</h2>
+<h2 style="text-align: left; margin-top: 20px;">🔭 Languages</h2>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: left; width: 100%;">
   <picture>
     <source
       srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics"
@@ -57,10 +57,9 @@
       srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics" alt="Top Languages" style="display: inline-block;" />
+    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics" alt="Top Languages" style="display: block; margin: auto;" />
   </picture>
 </div>
-
 
 <!--
 **LaWeite/LaWeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
