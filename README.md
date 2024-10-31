@@ -20,10 +20,43 @@
 <h1 align="center">⚡ Github Stats: </h1>
 
 <div style="display: flex; justify-content: flex-start;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465" alt="laweite" />
-  </a>
-  <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics" />
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com/?user=LaWeite&theme=default&card_width=465"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com/?user=LaWeite&theme=default&card_width=465" alt="laweite" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true" alt="Github Stats" />
+  </picture>
+</div>
+
+<div style="margin-top: 10px;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics" alt="Top Languages" />
+  </picture>
 </div>
 
 <!--
