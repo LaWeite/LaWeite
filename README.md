@@ -19,7 +19,7 @@
 
 <h1 align="center">⚡ Github Stats: </h1>
 
-<div style="display: flex; justify-content: flex-start;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <picture>
     <source
       srcset="https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465"
@@ -45,7 +45,9 @@
   </picture>
 </div>
 
-<div style="margin-top: 10px;">
+<h2 align="center">🔭 Languages</h2>
+
+<div style="display: flex; justify-content: center; margin-top: 10px;">
   <picture>
     <source
       srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics"
