@@ -17,9 +17,9 @@
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
 </p>
 
-<h1 align="center">⚡ Github Stats: </h1>
+<h1 style="text-align: center;">⚡ Github Stats: </h1>
 
-<div style="text-align: center; gap: 20px;">
+<div style="text-align: center;">
   <picture>
     <source
       srcset="https://streak-stats.demolab.com/?user=LaWeite&theme=dark&card_width=465"
@@ -29,7 +29,7 @@
       srcset="https://streak-stats.demolab.com/?user=LaWeite&theme=default&card_width=465"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com/?user=LaWeite&theme=default&card_width=465" alt="laweite" />
+    <img src="https://streak-stats.demolab.com/?user=LaWeite&theme=default&card_width=465" alt="laweite" style="display: inline-block; margin-right: 20px;" />
   </picture>
 
   <picture>
@@ -41,13 +41,13 @@
       srcset="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true" alt="Github Stats" />
+    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true" alt="Github Stats" style="display: inline-block;" />
   </picture>
 </div>
 
-<h2 align="center">🔭 Languages</h2>
+<h2 style="text-align: center;">Languages</h2>
 
-<div style="text-align: center; margin-top: 10px;">
+<div style="text-align: center;">
   <picture>
     <source
       srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics"
@@ -57,9 +57,10 @@
       srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics" alt="Top Languages" />
+    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics" alt="Top Languages" style="display: inline-block;" />
   </picture>
 </div>
+
 
 <!--
 **LaWeite/LaWeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
