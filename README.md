@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laweite&label=Profile%20views&color=0e75b6&style=flat" alt="laweite" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laweite" alt="laweite" /></a> </p>
-
 <h1 align="left">👨‍💻 Tech Stack: </h1>
 
 <p align="left">
