@@ -17,17 +17,17 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=LaWeite&theme=dark&hide_border=true&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics
+          options: username=LaWeite&theme=dark&hide_border=true&count_private=true&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics
           path: stats/top-langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate Light Theme Top Languages Card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=LaWeite&hide_border=true&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics
+          options: username=LaWeite&hide_border=true&count_private=true&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics
           path: stats/top-langs-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit and Push
         run: |
