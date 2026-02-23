@@ -29,18 +29,6 @@
     />
     <img src="https://streak-stats.demolab.com/?user=LaWeite&theme=default&card_width=465" alt="laweite" style="display: block; margin: auto;" />
   </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api?username=LaWeite&show_icons=true" alt="Github Stats" style="display: block; margin: auto;" />
-  </picture>
 </div>
 
 <h2 style="text-align: left; margin-top: 20px;">🔭 Languages</h2>
@@ -52,10 +40,10 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics" alt="Top Languages" style="display: block; margin: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics" alt="Top Languages" style="display: block; margin: auto;" />
   </picture>
 </div>
 
