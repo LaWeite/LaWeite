@@ -33,17 +33,17 @@
 
 <h2 style="text-align: left; margin-top: 20px;">🔭 Languages</h2>
 
-<div style="display: flex; justify-content: left; width: 100%;">
+<div align="left">
   <picture>
     <source
-      srcset="https://github-readme-stats-mu-brown-46.vercel.app/api/top-langs/?username=LaWeite&theme=dark&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&theme=dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&exclude_repo=github-readme-stats,anuraghazra.github.io,Basics_of_statistics" alt="Top Languages" style="display: block; margin: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite" alt="Top Languages" />
   </picture>
 </div>
 
