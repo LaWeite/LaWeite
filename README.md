@@ -36,14 +36,14 @@
 <div align="left">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&theme=dark&hide_border=true"
+      srcset="./stats/top-langs-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite&hide_border=true"
+      srcset="./stats/top-langs-light.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaWeite" alt="Top Languages" />
+    <img src="./stats/top-langs-light.svg" alt="Top Languages" />
   </picture>
 </div>
 
